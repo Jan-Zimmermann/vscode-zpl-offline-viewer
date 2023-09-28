@@ -1,7 +1,7 @@
-# vscode-zpl-viewer
+# vscode-zpl-offline-viewer
 
-A Visual Studio Code extension that allows to preview ZPL files.
-Relies on [Labelary API](http://labelary.com/service.html).
+I like to see if can build an offline viewer based on kamilturek`s extension with a js-zpl-library i wrote long before. (Can only render images in Zpls B64 or Z64 format)
+Not ready yet.
 
 ## Usage
 
